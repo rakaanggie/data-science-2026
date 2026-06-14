@@ -66,7 +66,7 @@ Selama pembelajaran Data Science, beberapa tools dan library yang digunakan anta
 Clone repository:
 
 ```bash
-git clone https://github.com/username/data-science-2026.git
+git clone https://github.com/rakaanggie/data-science-2026.git
 cd data-science-2026
 ```
 

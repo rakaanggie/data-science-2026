@@ -31,7 +31,12 @@ Repository ini bertujuan untuk mendokumentasikan perkembangan pembelajaran saya 
 | 4 | Eksplorasi Statistik Dataset Iris | [Pertemuan 4](./Pertemuan4_Raka_Anggie_Saputra_240401010148.ipynb) |
 | 5 | Visualisasi Data | [Pertemuan 5](./Pertemuan5_Raka_Anggie_Saputra_240401010148.ipynb) |
 | 6 | Preprocessing Dataset Titanic | [Pertemuan 6](./Pertemuan6_Raka_Anggie_Saputra_240401010148.ipynb) |
-| 7 | Machine Learning: Regresi Linear | [Pertemuan 7](./Pertemuan7_Raka_Anggie_Saputra_240401010148.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan 9](./Pertemuan9_Raka_Anggie_Saputra_240401010148.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan 10](./Pertemuan10_Raka_Anggie_Saputra_240401010148.ipynb) |
+| 11 | Unsupervised Learning: Clustering | [Pertemuan 11](./Pertemuan11_Raka_Anggie_Saputra_240401010148.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan 12](./Pertemuan12_Raka_Anggie_Saputra_240401010148.ipynb) |
+| 13 | Deep Learning dan NLP Dasar | [Pertemuan 13](./Pertemuan13_Raka_Anggie_Saputra_240401010148.ipynb) |
+
 
 ---
 
